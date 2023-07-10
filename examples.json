@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["test3/test3_basic.py", "github:mcauser/micropython-mip-test3/examples/test3_basic.py"],
+    ["test3/test3_complex.py", "github:mcauser/micropython-mip-test3/examples/test3_complex.py"]
+  ],
+  "deps": [],
+  "version": "0.1"
+}

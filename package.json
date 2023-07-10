@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["test3/__init__.py", "github:mcauser/micropython-mip-test3/src/test3.py"]
+  ],
+  "deps": [],
+  "version": "0.1"
+}
