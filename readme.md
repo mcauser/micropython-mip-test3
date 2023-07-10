@@ -15,7 +15,7 @@ Done
 
 GitHub        | Device
 :-------------|:----------------------
-/src/test3.py | /lib/test3/__init__.py
+/src/test3.py | /lib/test3/\_\_init\_\_.py
 
 ```
 $ mpremote repl
